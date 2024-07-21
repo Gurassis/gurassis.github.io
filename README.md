@@ -35,7 +35,7 @@ Percentage scored : 93.4%
 | 16-07-24   | English Activities    | Mainly focusing on public speaking and confidence improvement strategies. |
 | 17-07-24   | Universal Human Values|              |
 | 17-07-24   | Mathematics           | Class focusing on concepts of integration and problem solving. | 
-| 18-07-24   | Dr. Harwinder Singh   |              |
-| 18-07-24   | Pf. Jaswir Singh      |              |
-| 19-07-24   | Er. Kawaldeep Kalra   |              | 
-| 19-07-24   | Dr.Jaswinder Singh    |              |
+| 18-07-24   | Dr. Harwinder Singh   | -Importance of extra ciricular activities is explained but not on the cost of academics. -Glimpses of social work by National Cadet Corpes. -Benifits of joining NCC including self awareness,problem solving skills,empathy,critical thinking and many more.             |
+| 18-07-24   | Pf. Jaswir Singh      | -Meaning of engneering being process of converting raw material into final products. -Concept of reverse engneering also discussed. -Difference between a scientist and an engineer. -Activities by NSS including tree plantation drives , blood donation camps, rain water harvesting, environmental issues and many more.             |
+| 19-07-24   | Er. Kawaldeep Kalra   | -Skit on placement interviews emphasising different types of candidates. -PPT on journey from college to corperate. -Life is all about 'C'; childhood , campus , college corperate,career, compensation. -Importance of soft skills over hard skills. -importance of being culturally fit and culturally reliable.               | 
+| 19-07-24   | Dr.Jaswinder Singh    | -Importance of mathematics and science as the basis of the universe. -Trick to count all the 206 bones of the human body in a very fun and interactive way. -Fun experiment with rainwater detector , concepts of surface tension , sound , centripital force , lenses, static electricity and more.             |
