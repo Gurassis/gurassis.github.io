@@ -23,9 +23,9 @@ Percentage scored : 93.4%
 
 ## *REPORT ON STUDENT INDUCTION PROGRAM*
 
-| DATE       | RESOURCE PERSON/CLASS      | DESCRIPTION  |
-| ---------- |:-------------:        | -----:       |
-| 11-07-24   | Dr. Arvind Dhingra    |              |
+|        DATE         | RESOURCE PERSON/CLASS      | DESCRIPTION  |
+| ----------------- |:-------------:        | -----:       |
+| 11-07-24         | Dr. Arvind Dhingra    |              |
 | 11-07-24   | Dr. Parminder Singh    |              |
 | 11-07-24   | Dr. H.S. Rai          |              |
 | 12-07-24   | Mathematics           | Concepts of differentiation and problem solving. |
