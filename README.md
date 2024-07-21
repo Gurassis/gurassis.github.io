@@ -23,7 +23,7 @@ Percentage scored : 93.4%
 
 ## *REPORT ON STUDENT INDUCTION PROGRAM*
 
-|        DATE         | RESOURCE PERSON/CLASS      | DESCRIPTION  |
+|  DATE OF EVENT  | RESOURCE PERSON/CLASS      | DESCRIPTION  |
 | ----------------- |:-------------:        | -----:       |
 | 11-07-24         | Dr. Arvind Dhingra    |              |
 | 11-07-24   | Dr. Parminder Singh    |              |
