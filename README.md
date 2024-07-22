@@ -30,7 +30,7 @@ Percentage scored : 93.4%
 | 11-07-24   | Dr. H.S. Rai          |              |
 | 12-07-24   | Mathematics           | Concepts of differentiation and problem solving. |
 | 12-07-24   | Universal Human Values| Class focusing on topics like |
-| 15-07-24   | Dr. Pyare Lal         |              |speech on various topics mainly focusing on the importance of universe as a form of energy with multiple quotes from great personalities like Guru Nanak Dev ji and old hindi kavitas | 
+| 15-07-24   | Dr. Pyare Lal         |speech on various topics mainly focusing on the importance of universe as a form of energy with multiple quotes from great personalities like Guru Nanak Dev ji and old hindi kavitas | 
 | 15-07-24   | Mr. Sony Goyal        | -LIFE canbe abbreviated as : Learn,Inquire,Future and Explore. -learning is by doing , taking action is the most important part of life. -Three questions to always ask yourself: 1.What are thr future prospects of a career. 2.What are my strenghs and weaknesses. 3.What are my choices available. -These questions correspond with the following important topics: 1.Scope 2.Evaluation 3.Awareness          |
 | 16-07-24   | English Activities    | Mainly focusing on public speaking and confidence improvement strategies. |
 | 17-07-24   | Universal Human Values|              |
