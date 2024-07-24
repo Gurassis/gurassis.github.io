@@ -25,9 +25,8 @@ Percentage scored : 93.4%
 
 |  DATE OF EVENT  | RESOURCE PERSON/CLASS      | DESCRIPTION  |
 | ----------------- |:-------------:        | -----:       |
-| 11-07-24         | Dr. Arvind Dhingra    |              |
-| 11-07-24   | Dr. Parminder Singh    |              |
-| 11-07-24   | Dr. H.S. Rai          |              |
+| 11-07-24         | Dr. Arvind Dhingra    |  Importance of developing skills and co curicular activities along with studies  |
+| 11-07-24   | Dr. H.S. Rai          | Discussions of oppurtunities in the field of computer science and coding.             |
 | 12-07-24   | Mathematics           | Concepts of differentiation and problem solving. |
 | 12-07-24   | Universal Human Values| Class focusing on topics like |
 | 15-07-24   | Dr. Pyare Lal | speech on various topics mainly focusing on the importance of universe as a form of energy with multiple quotes from great personalities like Guru Nanak Dev ji and old hindi kavitas | 
@@ -42,3 +41,7 @@ Percentage scored : 93.4%
 | 22-07-24 |       | -Fun writing activity. -Inportance of making a life diary and defining your goals and ambitions. -Importance of communication. -Book recomendations Wings of fire and Ignited minds. -Importance of being one. 
 | 22-07-24 |       | -Types of studies : 1.superficial study 2.Stratergic study 3. Deep study. -15% academic knowledge is required for attaining success. -Pitfalls of proffesional education: this is just the start of life and stress mental health issues. -Goals shoukd be SMART: Specific,Measurable,Achievable,Realistic and Time bound. | 
 | 22-07-24 | Architect Prasad Vaidya | -Jobs are going to be very difficult and different in the next 5-10 years due to factors like AI and climate change. -Foriegn companies are investing in change in infrastructure to make the new infrastructure smart , digital and low carbon in the next 10-20 years. -The time to act is now. -SDI : Solar Decathlon India is an opputunity for undergrad and post grad students to develop smart and low carbon and also renewable infrastructure. |
+| 23-07-24 | Mathematics | concepts of integration | 
+| 23-07-24 | Peer interaction | Introduction of canva- how to use various tools and how to use canva for freelancing | 
+| 24-07-24 | Mr. Gauravdeep Singh | -Importance of being happy. -The happier we are , the more attractive we look. -Importance of seeking permanent happiness over temporary happiness. -developing a habit of pointing the good in ourselves. -Problems are a human part of life so we need to learn to live with them. -Every failure and achievement in life is meant to be. | 
+| 24-07-24 | Lakhwir Singh | -Importance of interaction with resource person. -Importance of conversing with peers and batchmates. -Introduction to CML - Centre of Multifaceted Learning and how it promotes holistic learning , communication skills, CV writing and many more non technical skills. -Importance of non paid internships. -Introduction to NPTEL: National Programme on Technology and Enhanced Learning. | 
