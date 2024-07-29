@@ -52,5 +52,6 @@ Percentage scored : 93.4%
 | 25-07-24 | Universal Human Values | Topics like harmony in society, self regulation and outcomes of right understanding |
 | 25-07-24 | Peer Interaction | various details about college explained |
 | 26-07-24 | Dr. Kawardeep Kaur | -Homopethic treatment focuses on healing the energy and increasing imunity. -Benifits of meditation discussed; 1.Helps with psycological diseases:anxiety, depression and guilt etc. 2.Concentration and intution is improved. - cosmic energy and its importance is discussed. | 
+
 [1]: https://www.linkedin.com/in/gurassiskaur
 
