@@ -32,11 +32,11 @@ Percentage scored : 93.4%
 | 11-07-24         | Dr. Arvind Dhingra    |  Importance of developing skills and co curicular activities along with studies  |
 | 11-07-24   | Dr. H.S. Rai          | Discussions of oppurtunities in the field of computer science and coding.             |
 | 12-07-24   | Mathematics           | Concepts of differentiation and problem solving. |
-| 12-07-24   | Universal Human Values| Class focusing on topics like  |
+| 12-07-24   | Universal Human Values| Class focusing on topics like Value education, human aspiration, developing right understanding and self exploration etc. |
 | 15-07-24   | Dr. Pyare Lal | speech on various topics mainly focusing on the importance of universe as a form of energy with multiple quotes from great personalities like Guru Nanak Dev ji and old hindi kavitas | 
 | 15-07-24   | Mr. Sony Goyal        | -LIFE canbe abbreviated as : Learn,Inquire,Future and Explore. -learning is by doing , taking action is the most important part of life. -Three questions to always ask yourself: 1.What are thr future prospects of a career. 2.What are my strenghs and weaknesses. 3.What are my choices available. -These questions correspond with the following important topics: 1.Scope 2.Evaluation 3.Awareness          |
 | 16-07-24   | English Activities    | Mainly focusing on public speaking and confidence improvement strategies. |
-| 17-07-24   | Universal Human Values|              |
+| 17-07-24   | Universal Human Values| topics like human being as a coexistence of self and body, harmony in self and body, holistic development and role of education discussed. |
 | 17-07-24   | Mathematics           | Class focusing on concepts of integration and problem solving. | 
 | 18-07-24   | Dr. Harwinder Singh   | -Importance of extra ciricular activities is explained but not on the cost of academics. -Glimpses of social work by National Cadet Corpes. -Benifits of joining NCC including self awareness,problem solving skills,empathy,critical thinking and many more.             |
 | 18-07-24   | Pf. Jaswir Singh      | -Meaning of engneering being process of converting raw material into final products. -Concept of reverse engneering also discussed. -Difference between a scientist and an engineer. -Activities by NSS including tree plantation drives , blood donation camps, rain water harvesting, environmental issues and many more.             |
