@@ -21,8 +21,8 @@ This is my 10+2 marksheet.
 
 Percentage scored : 93.4%
 
-## EXCEL CERTIFICATE 
-![Certificate](![WhatsApp Image 2024-07-29 at 7 17 57 PM](https://github.com/user-attachments/assets/c317c1dd-cdda-4754-8a25-57c1b2d88a8a)
+## EXCEL CERTIFICATE
+(![WhatsApp Image 2024-07-29 at 7 17 57 PM](https://github.com/user-attachments/assets/c317c1dd-cdda-4754-8a25-57c1b2d88a8a)
 )
 ## *REPORT ON STUDENT INDUCTION PROGRAM*
 
