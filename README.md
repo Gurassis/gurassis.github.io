@@ -7,7 +7,7 @@
 - *I have spoken on stage only twice in my life which also explains why I am more of a writing person; I love to write daily.*
 - *I may not be as good at drawing or painting but my hand lettering skills make me stand out*
   
-LinkedIn profile:  <www.linkedin.com/in/gurassis-kaur-bb8511309>
+This is the *[linkedin profile](www.linkedin.com/in/gurassis-kaur-bb8511309)*
 ## MARKSHEET 
 This is my 10+2 marksheet. 
 
