@@ -7,7 +7,8 @@
 - *I have spoken on stage only twice in my life which also explains why I am more of a writing person; I love to write daily.*
 - *I may not be as good at drawing or painting but my hand lettering skills make me stand out*
   
-This is my *[linkedin profile](www.linkedin.com/in/gurassis-kaur-bb8511309)*
+This is my [Linkedin profile](www.linkedin.com/in/gurassiskaur)
+
 ## MARKSHEET 
 This is my 10+2 marksheet. 
 
@@ -23,6 +24,7 @@ Percentage scored : 93.4%
 
 ## EXCEL CERTIFICATE
 ![WhatsApp Image 2024-07-29 at 7 17 57 PM](https://github.com/user-attachments/assets/c317c1dd-cdda-4754-8a25-57c1b2d88a8a)
+
 ## *REPORT ON STUDENT INDUCTION PROGRAM*
 
 |  DATE OF EVENT  | RESOURCE PERSON/CLASS      | DESCRIPTION  |
