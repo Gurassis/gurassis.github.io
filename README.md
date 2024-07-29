@@ -7,7 +7,7 @@
 - *I have spoken on stage only twice in my life which also explains why I am more of a writing person; I love to write daily.*
 - *I may not be as good at drawing or painting but my hand lettering skills make me stand out*
   
-This is the *[linkedin profile](www.linkedin.com/in/gurassis-kaur-bb8511309)*
+This is my *[linkedin profile](www.linkedin.com/in/gurassis-kaur-bb8511309)*
 ## MARKSHEET 
 This is my 10+2 marksheet. 
 
@@ -21,6 +21,7 @@ This is my 10+2 marksheet.
 
 Percentage scored : 93.4%
 
+## EXCEL CERTIFICATE 
 ## *REPORT ON STUDENT INDUCTION PROGRAM*
 
 |  DATE OF EVENT  | RESOURCE PERSON/CLASS      | DESCRIPTION  |
@@ -28,7 +29,7 @@ Percentage scored : 93.4%
 | 11-07-24         | Dr. Arvind Dhingra    |  Importance of developing skills and co curicular activities along with studies  |
 | 11-07-24   | Dr. H.S. Rai          | Discussions of oppurtunities in the field of computer science and coding.             |
 | 12-07-24   | Mathematics           | Concepts of differentiation and problem solving. |
-| 12-07-24   | Universal Human Values| Class focusing on topics like |
+| 12-07-24   | Universal Human Values| Class focusing on topics like  |
 | 15-07-24   | Dr. Pyare Lal | speech on various topics mainly focusing on the importance of universe as a form of energy with multiple quotes from great personalities like Guru Nanak Dev ji and old hindi kavitas | 
 | 15-07-24   | Mr. Sony Goyal        | -LIFE canbe abbreviated as : Learn,Inquire,Future and Explore. -learning is by doing , taking action is the most important part of life. -Three questions to always ask yourself: 1.What are thr future prospects of a career. 2.What are my strenghs and weaknesses. 3.What are my choices available. -These questions correspond with the following important topics: 1.Scope 2.Evaluation 3.Awareness          |
 | 16-07-24   | English Activities    | Mainly focusing on public speaking and confidence improvement strategies. |
@@ -45,3 +46,4 @@ Percentage scored : 93.4%
 | 23-07-24 | Peer interaction | Introduction of canva- how to use various tools and how to use canva for freelancing | 
 | 24-07-24 | Mr. Gauravdeep Singh | -Importance of being happy. -The happier we are , the more attractive we look. -Importance of seeking permanent happiness over temporary happiness. -developing a habit of pointing the good in ourselves. -Problems are a human part of life so we need to learn to live with them. -Every failure and achievement in life is meant to be. | 
 | 24-07-24 | Lakhwir Singh | -Importance of interaction with resource person. -Importance of conversing with peers and batchmates. -Introduction to CML - Centre of Multifaceted Learning and how it promotes holistic learning , communication skills, CV writing and many more non technical skills. -Importance of non paid internships. -Introduction to NPTEL: National Programme on Technology and Enhanced Learning. | 
+| 26-07-24 | Dr. Kawardeep Kaur | -Homopethic treatment focuses on healing the energy and increasing imunity. -Benifits of meditation discussed; 1.Helps with psycological diseases:anxiety, depression and guilt etc. 2.Concentration and intution is improved. - cosmic energy and its importance is discussed. | 
