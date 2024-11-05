@@ -1,11 +1,9 @@
 - *My name is Gurassis Kaur , I am 17 years old. I have done my 10+2 from Green Land Convent School Ludhiana.*
 - *Right now, I am a student of Guru Nanak Dev Engineering College , I am pursuing my B.tech in Computer Science Engeneering.*
 - *I find my interests in mathematics and cooking ; I love to explore new kinds of foods.*
-- *My favorite subject growing up has always been English Which is reflective in my grades.*
-- *In high school I was a part of the house council and I participated in organizing the annual events. I was also the Class Representative in 12 standards.*
-- *As a person , I am very reserved but I try to be helpful to ones around me*
-- *I have spoken on stage only twice in my life which also explains why I am more of a writing person; I love to write daily.*
-- *I may not be as good at drawing or painting but my hand lettering skills make me stand out*
+- *My favorite subject growing up has always been English which is reflective in my grades.*
+- *In high school I was a part of the house council and I participated in organizing the annual events. I was also the Class Representative in 12 standard.*
+- *As a person , I am very reserved but I try to be helpful to the ones around me*
   
 This is my [Linkedin profile][1]
 
